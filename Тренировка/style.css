@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.idk{
+    position: relative;
+    margin: 0 auto;
+    width: 70%;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 3px 26px 14px rgba(34, 60, 80, 0.43);
+}
+
+#find{
+    width: 450px;
+    background-color: rgb(202, 202, 202);
+    border: 2px solid rgb(105, 105, 105);
+    padding: 10px;
+    margin: 70px;
+}
+
+#content{
+    font-size: 35px;
+}
+
+#name-content{
+    font-size: 25px;
+    margin-left: 15px;
+}
+
+.jpg{
+    margin-inline: 70px;
+    height: auto;
+    width: 100%;
+    max-width: 750px;
+    margin-bottom: 20px;
+}
+
+#Text_1{
+    text-align: center;
+    font-size: 80px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.info0{
+    text-align: center;
+    font-size: 40px;
+    margin-inline: 70px;
+    margin-bottom: 20px;
+}
+
+.infoC0{
+    margin-bottom: 30px;
+}
+
+.names{
+    font-size: 60px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+
+.info{
+    font-size: 30px;
+    margin-inline: 70px;
+    margin-bottom: 15px;
+}
+
